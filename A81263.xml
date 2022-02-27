@@ -1,0 +1,721 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carmen elegiacum, Englands elegie, or lamentation. By N.C. Whereunto is added a reasonable motion, and lamentation, in the behalfe of such of the clergie, as are questioned in the Parliament, for their places, &amp;c.</title>
+            <author>N. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81263</idno>
+            <idno type="STC">Wing C87</idno>
+            <idno type="STC">Thomason E99_31</idno>
+            <idno type="EEBO-CITATION">99863626</idno>
+            <idno type="PROQUEST">99863626</idno>
+            <idno type="VID">155853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155853)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Carmen elegiacum, Englands elegie, or lamentation. By N.C. Whereunto is added a reasonable motion, and lamentation, in the behalfe of such of the clergie, as are questioned in the Parliament, for their places, &amp;c.</title>
+                  <author>N. C.</author>
+               </titleStmt>
+               <extent>[2] 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>In verse.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 28. 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155853:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>
+               <hi>Carmen Elegiacum,</hi> ENGLANDS ELEGIE, OR Lamentation.</p>
+            <q>
+               <p>Zion ſtretcheth forth her hands, and there is none to comfort her: the Lord hath commanded concerning Jacob that his adverſaries ſhould be round about him: Jeruſalem is as a menſtruous Woman in the midſt of them.</p> 
+               <bibl>Lam. 1.17.</bibl>
+            </q>
+            <figure>
+               <sp>
+                  <p>Alas! Alas!</p>
+               </sp>
+            </figure>
+            <q>
+               <p>They have heard that I ſigh, there is none to comfort me: all mine enemies have heard of my trouble, they are glad that thou haſt done it: thou wilt bring the day that thou haſt called, and they ſhall be like me.</p>
+               <bibl>Verſe 21.</bibl>
+            </q>
+            <p>By <hi>N. C.</hi> 
+               <add>Aprill 28. 1643</add>
+            </p>
+            <p>Whereunto is added a reaſonable Motion, and lamen<g ref="char:EOLhyphen"/>tation, in the behalfe of ſuch of the Clergie, as are queſtioned in the Parliament, for their places, <hi>&amp;c,</hi>
+            </p>
+            <q>
+               <p>Put me (I pray thee) into one of the Prieſts Offices, that I may eate a piece of bread.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:155853:2"/>
+            <!-- PDF PAGE 62 -->
+            <pb n="1" facs="tcp:155853:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>
+               <hi>CARMEN ELEGJACVM.</hi> ENGLANDS ELEGIE OR LAMENTATION.</head>
+            <lg>
+               <l>ALL yee my Sons that True and faithfull be,</l>
+               <l>Come and lament my wofull miſerie,</l>
+               <l>Lift up your voyce with me and cry amain<g ref="char:punc">▪</g>
+               </l>
+               <l>Stand for your lives, or all is but in vaine;</l>
+               <l>In vaine yee hope for to enjoy ſweet peace,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that from Thrall your ſelves you'll not releaſe;</l>
+               <l>Both I your Mother, you my Sons and all,</l>
+               <l>Are ſold for ſlaves, for to be kept in thrall,</l>
+               <l>By Papiſts proud, in curſed inſolent</l>
+               <l>Epiſcopapacy for ever to relent;</l>
+               <l>In chaines of horrid darkth and ignorance,</l>
+               <l>To looſe ſweet freedom this ſhall be your chance,</l>
+               <l>Freedom that is Ghoſtly, freedom corporall,</l>
+               <l>And whatſoever deare or neare you call;</l>
+               <l>Your Lands, Eſtates, confiſcate all ſhall be,</l>
+               <l>None buy nor ſell without a Patentee;</l>
+               <l>And all you Farmers that are rich in Land,</l>
+               <l>Shall have ten pound <hi>per annum</hi> in your hand;</l>
+               <l>If your Land be worth five hundred <hi>li.</hi> a yeare,</l>
+               <l>None muſt enjoy it but a Popiſh Peere:</l>
+               <l>O curſed time when this to paſſe ſhall come,</l>
+               <l>That I and mine back to the See of <hi>Rome,</hi>
+               </l>
+               <l>Should captivated be! alack this is not all,</l>
+               <l>The blood of my deare Children firſt muſt fall</l>
+               <l>Unto the ground: and famous <hi>London</hi> that</l>
+               <l>Muſt even with the ground be layed flat;</l>
+               <l>My chiefeſt Garland and my darling deare,</l>
+               <l>They're bent to ſpoyle, and that without all fear</l>
+               <l>O pittie me all yee that be my friends,</l>
+               <l>O helpe, deliver me from curſed gins—</l>
+               <l>Of theſe blood-ſuckers, from their dire intents,</l>
+               <l>And from their fury yeeld me ſome defence:</l>
+               <l>Is this matter ſmall all yee that poſſe along?</l>
+               <l>Have yee no eyes to weep? my young men ſtron<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>In ſtreets do fall amaine, the Countrey's ſtroy'd,</l>
+               <l>And I am left as deſolate and voyd:</l>
+               <l>O that my Children had bin wiſe indeed,</l>
+               <l>To have prevented this diſtreſſe and need,</l>
+               <l>O that they yet were wiſe to underſtand</l>
+               <l>And minde the good of me their Mother, and</l>
+               <l>Alſo of themſelves and their Poſteritee,</l>
+               <l>Which after times and future age ſhall ſee,</l>
+               <l>And that they would unanimouſly agree,</l>
+               <l>To keepe themſelves and me their Mother free</l>
+               <l>O what will come upon the following race,</l>
+               <l>Of theſe my Sons inhabiting this place;</l>
+               <l>If that curſt cure of Hell-hounds ſhould prevai<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>And cauſe my true borne Sonnes of life to faile<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>But ſenſeleſſe blocks a many of them are,</l>
+               <l>That ſeeke their own Ruth and deſtruction da<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Of pitteous men now on how few there be,</l>
+               <l>Amongſt an hundred one or two or three;</l>
+               <l>I look't for ſome that ſhould have pittie taken,</l>
+               <l>But loe my ſeeming friends have me forſaken.</l>
+               <pb n="2" facs="tcp:155853:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 63 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:155853:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 63 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb n="2" facs="tcp:155853:4"/>
+                  <!-- PDF PAGE 64 -->
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay they that ſhould preſerve me from the harm</l>
+               <l>Of curſed Caterpillers which do ſwarme</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n every place: they cruelly are bent,</l>
+               <l>For to ſubvert me, and to circumvent</l>
+               <l>My Sons, and utterly to overthrow</l>
+               <l>Mine honour, and to bring me down full low:</l>
+               <l>Much wrong I have already ſuffered<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> haue bin forc't to drinke the blo<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, ſ<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed,</l>
+               <l>With ſuch injuſtice that He nere forget</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill blood of th'authors ſhall my garments w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill vengeance from great <hi>Iupiter</hi> ſhall f<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pon their pates and eke conſume them <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+               <l>What wrong have I to theſe Malignants done.</l>
+               <l>That they in me this miſchiefe have begun?</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alwaies of their welfare have bin tender,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough they in thankfulneſſe are very ſlender;</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd where have I bin ſlack in any thing,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat might conduce for to content the King?</l>
+               <l>Who is my eldeſt in order and degree:</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd whom would I advanced have but hee?</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have by all meanes alwaies ſought his good,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough they for mine it ſeemes have little ſtood;</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did command my younger Sonnes alſo,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat they as one ſhould ſerve the elder tho</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or to conſult about his good eſtate,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o put an end to difference and debate,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ſo he might have had a happie Raigne,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd he and I have bin no longer Twaine,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or though he be my eldſt my life to me,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> precious is as any Sons can be;</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir duty they to'th utmoſt have diſcharged,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r which their honours ever be inlarged;</l>
+               <l>Mothers bleſſing ſhall upon them light</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen Sons of <hi>Beliall</hi> may not ſtand in ſight</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fore the Judge, for that they have obey'd,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ntring themſelves for me being not diſmaid</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith great <hi>Goliah;</hi> let them be renown'd</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ever, and alſo their labour Crown'd</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith glory, and although they can't prevaile</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Treaty with theſe Rebells, yet to quaile</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir force and ſtrength, they haply may be able,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re all my children that love Truth but ſtable;</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w ever henceforth I reſolv'd ſhall be,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er to come in wilfull ſlaverie,</l>
+               <l>And though to ſtand it out I've ſlender means;</l>
+               <l>Ile fight and cry with ſuch deplored threnes,</l>
+               <l>That great <hi>Iehovah</hi> nere at reſt ſhall be,</l>
+               <l>Till he accord juſtly to anſwer me;</l>
+               <l>And oh that my deare children were reſolv'd,</l>
+               <l>To ſtand upon their own defence involv'd</l>
+               <l>In ſo much doubt and feare and jealouſie,</l>
+               <l>Nay plainely deſperate that your ſelves may ſee</l>
+               <l>Of reſt and quiet peace there is no hope,</l>
+               <l>Unleſſe you will conſent to ſerve the Pope:</l>
+               <l>'Tis true, they make Apologie and defence,</l>
+               <l>And cover miſchiefe with a fine pretence,</l>
+               <l>As it they onely ſtood for to uphold,</l>
+               <l>The ſame Religion which they had of old</l>
+               <l>Within their Fathers dayes: I'le tell them this,</l>
+               <l>A thing's well done where nothing is amiſſe;</l>
+               <l>What reaſon is there for me to account</l>
+               <l>That more Authenticke and more to ſurmount</l>
+               <l>In glory; which was wrought in Infancie</l>
+               <l>Or riper age of knowledge, pray judge yee:</l>
+               <l>But harke deare Children I will tell you true,</l>
+               <l>Give eare to me your Mother leſt you rue,</l>
+               <l>Be not deceiv'd with theſe falſe forgeries,</l>
+               <l>Let not thoſe murtherers ſlay you with their lies</l>
+               <l>For Queene <hi>Elizabeths</hi> could not give content,</l>
+               <l>Nor were they pleaſ'd with <hi>Iames</hi> his goveenment</l>
+               <l>In matters that are cal'd Eccleſiaſtick,</l>
+               <l>Witneſſe the practiſe of thoſe ſoule Fantaſticke</l>
+               <l>Epiſco-puppies, who of lare would ha</l>
+               <l>New Service, Cannon-bookes, <hi>Etcetera:</hi>
+               </l>
+               <l>But this hath bin their manner aye to cover,</l>
+               <l>And palliate their Knav'rie and to ſmother</l>
+               <l>Their Treachery, with faire gloſſing words,</l>
+               <l>Which hath more miſchiefe wrought then have</l>
+               <l>For my part I ſhall ever ſtand it out. (their ſwords</l>
+               <l>Againſt that curſed Diabolick rout,</l>
+               <l>And this hath bin my reſolution aye,</l>
+               <l>And mine, and mine, let every true Son ſay.</l>
+               <l>But haply ſome ill members may object.</l>
+               <l>Let us have Peace, and Truth we not reſpect,</l>
+               <l>Alas poore ſoules you little do conſider,</l>
+               <l>That Peace and Truth do alwaies go together;</l>
+               <l>Know this that they that baſely ſeeke to ſave</l>
+               <l>Their lives, ſhall ſoon'ſt of all deſtruction have:</l>
+               <l>
+                  <pb n="3" facs="tcp:155853:4"/>
+                  <!-- PDF PAGE 64 -->
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſafe for me my ſelfe up for to yeeld</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o bondage, and for aie to looſe the field</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hope, of comfort, and eke of redreſſe,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſtill to lay in woe remedileſſe?</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> woe to you that ever you were borne,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>-come by that damn'd crue, of God forlorne;</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> life that languiſheth is worſe then death,</l>
+               <l>Therefore my ſtate and life Ile now bequeath</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>o the hands of thoſe True Sons that be,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to all thoſe elſe that ſhall pit<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie me,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an no longer beare the injury,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bloody Tyrants curſed cruelty;</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong have held my peace but now amaine,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cry to <hi>Iove</hi> till he replie againe.</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ood cries <hi>Edge-hill,</hi> blood <hi>Brainfords</hi> Innocents,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lood cries in every place yet few relents.</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lack how few doe minde the ſad condition.</l>
+               <l>Of <hi>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>romighoms</hi> and <hi>Ciceſters</hi> deſciſſion;</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ack how few there be that lay to heart,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he great oppreſſion on the Cities part,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow they beyond all meaſure are put to it,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow many poore men grievouſly do rue it?</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he charge and all the paines of Parliament,</l>
+               <l>Which they of pittie for my good have ſpent;</l>
+               <l>How little iſ't of many now regarded,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd with what ſlender thanks do they reward it:</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll thoſe injuries beſide a thouſand more,</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e put upon the Cavalier his ſcore.</l>
+               <l>
+                  <gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he cryes of all the blood unjuſtly ſhed,</l>
+               <l>And all the wrong that in the land is bred,</l>
+               <l>Mounts up toth' eares of great <hi>Iehove</hi> to ſee,</l>
+               <l>And ſeeke revenge from him and remedie,</l>
+               <l>Who Juſtice doth undoubtedly alway,</l>
+               <l>And vengeance to deſerving men will pay;</l>
+               <l>And ſince it is my fate with Germanye,</l>
+               <l>And with my Hand-mayd <hi>Ireland</hi> to be</l>
+               <l>In wofull plight, through curſed brood of hell,</l>
+               <l>And Divells birds in that moſt wicked ſpell,</l>
+               <l>Ile take the Cup undauntedly and drinke,</l>
+               <l>And from a righteous cauſe I'l never ſhrinke;</l>
+               <l>But yet in this I will not wanting be,</l>
+               <l>To tell my Sons of all my miſery,</l>
+               <l>And to implore their helpe er't be too late,</l>
+               <l>That they may not buy Time at too deare rate;</l>
+               <l>It grieves me much to ſee how ſlow you are,</l>
+               <l>As if you were afraid or did not dare</l>
+               <l>For to reſiſt your cruelſt enemies,</l>
+               <l>That thinke too good the worſt they can deviſe</l>
+               <l>Againſt you, ſtand upon your feet,</l>
+               <l>If ever you againe ſweet Peace will greet;</l>
+               <l>If ere you'le ſeeke for to preſerve the Land</l>
+               <l>If ere for right and Truth, and Peace you'l ſtand,</l>
+               <l>Now ſhew your ſelves couragious men indeed,</l>
+               <l>That will not flinſh nor ſhrink in time of need.</l>
+               <l>And valiant <hi>Scotch-men</hi> to you a word I'le now</l>
+               <l>Speake: you your hand firſt put unto the Plow,</l>
+               <l>Don't ſuffer theſe your Brethrens hearts to faint,</l>
+               <l>But yeeld a willing eare to their complaint,</l>
+               <l>And lend your helpe and aid gratis one houre,</l>
+               <l>Againſt that Antichriſtian force and power;</l>
+               <l>Your weale and wealth in ours up is bound.</l>
+               <l>If we be loſt, then where will yee be found.</l>
+            </lg>
+            <lg>
+               <l>And thus I leave my cauſe with God and you</l>
+               <l>And ſpreading forth my hands for helpe I ſue.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:155853:5"/>
+            <!-- PDF PAGE 65 -->
+            <head>A Reaſonable Motion. In the behalfe of ſuch of the CLERGIE as are now queſtioned in PARLIAMENT for their places.</head>
+            <l>VOuchſafe (GREAT LORDS) with patience for to heare,</l>
+            <l>Our juſt requeſt, which we preſent you here.</l>
+            <l>'Tis ſaid abroad, that you the Church would free,</l>
+            <l>Of ſundry faults, which in the ſame there be.</l>
+            <l>But that it's fear'd, and you perhaps conceive,</l>
+            <l>A change of things, we Prieſts will not receive.</l>
+            <l>But will ſtand out for things we former had,</l>
+            <l>And doe them ſtill, though you ſhall thinke them bad.</l>
+            <l>But we doe hope, by this to make it cleare,</l>
+            <l>That no ſuch thing<g ref="char:punc">▪</g> of us you need to feare.</l>
+            <l>For we (like Scots) will not ſuch things put by,</l>
+            <l>As are impoſ'd by Soveraigne Majeſty.</l>
+            <l>Nor are we like the Puritaniſh Sects,</l>
+            <l>Who'll doe no more then what the Word directs.</l>
+            <l>We never yet have ſhew'd our ſelves ſo ill,</l>
+            <l>But what the State injoyn'd we did it ſtill.</l>
+            <l>And that your Honours may be ſure of this,</l>
+            <l>We can produce the Ages paſt for us.</l>
+            <l>You know <hi>King Edward</hi> did the Maſſe put downe,</l>
+            <l>And ſet the Service Booke up in the Roome.</l>
+            <l>We then the <hi>Clergie</hi> of the Land throughout,</l>
+            <l>Forſook the old and tooke the newer up.</l>
+            <l>When he was dead and <hi>Mary</hi> had the Crowne,</l>
+            <l>Then up goes Maſſe, and Service it comes down.</l>
+            <l>Yet we Sir Prieſts as men of quiet Spirits,</l>
+            <l>Obey'd the Prince and turn'd unto our vomits.</l>
+            <l>Some few Yeares after <hi>Mary</hi> being dead,</l>
+            <l>The Crown is ſet upon Her <hi>Siſters</hi> Head.</l>
+            <l>Now Shee againe puts downe the Idoll Maſſe,</l>
+            <l>And hath the Service as before it was.</l>
+            <l>To this our Father Prieſts did then ſubmit.</l>
+            <l>Though moſt perhaps did mind it was not fit.</l>
+            <l>
+               <pb n="5" facs="tcp:155853:5"/>
+               <!-- PDF PAGE 65 -->
+Yet what the Stare did thinke for to be beſt;</l>
+            <l>They queſtion not but do't and therein reſt.</l>
+            <l>What they have done, we meane the like to doe,</l>
+            <l>Conforme our ſelves, to things confirm'd by you.</l>
+            <l>If you put down our Biſhops from their Chaire,</l>
+            <l>Their Lyturgie, and Courts, and other geere.</l>
+            <l>What next by you, ſhall be enacted then;</l>
+            <l>Shall be obſerv'd by us, the Clergie Men.</l>
+            <l>But if you pleaſe to have them yet ſtand ſtill,</l>
+            <l>We are content, and yeeld to them we will.</l>
+            <l>For Government and Worſhip what care we,</l>
+            <l>Or Rites and Orders what in Church there be.</l>
+            <l>Our care is onely, for to keepe from wants;</l>
+            <l>For Conſcience here, we leave to Puritants.</l>
+            <l>And this we judge to be no wiſe Mans caſe,</l>
+            <l>To deeme his Conſcience better then his place.</l>
+            <l>The Canons late, which were on us impos'd,</l>
+            <l>By you are thought not fit for to be us'd.</l>
+            <l>Yet we (Sir Prieſts) did ſtand ſo much in awe,</l>
+            <l>As that we meant to yeeld unto their Law.</l>
+            <l>And ere that we will leave our gainefull-Trade;</l>
+            <l>We'le ſtoope to all what er'e by man is made.</l>
+            <l>Therefore brave Lords as you in Courts now fit:</l>
+            <l>So let Religion be, as you thinke fit.</l>
+            <l>We take no thought this way about Gods will,</l>
+            <l>But how to keep our Benefices ſtill.</l>
+            <l>And hope we doe, although the better part,</l>
+            <l>To caſt us out, can find it in their heart.</l>
+            <l>Yet there are ſome will ſpeake for poore Sir <hi>Johns;</hi>
+            </l>
+            <l>Eor lazy Dogs, old Prieſts, and idle Drones.</l>
+            <l>For Pluraliſts, Nonreſdents and ſuch Men,</l>
+            <l>The <hi>Clergie</hi> now conſiſting moſt of them.</l>
+            <l>And cauſe there is, the matter ſhould be ſo,</l>
+            <l>For if turn'd out (alas) what ſhall we doe.</l>
+            <l>It's now ſo long, ſince we forſooke the trade,</l>
+            <l>Of Cobling, Weaving, Thatching, and the Spade.</l>
+            <l>That for to worke our bodies are unfit:</l>
+            <l>Nor can we bring our hearts at all to it.</l>
+            <l>
+               <pb n="6" facs="tcp:155853:6"/>
+               <!-- PDF PAGE 66 -->
+If we therefore, muſt let our Prieſthood fall:</l>
+            <l>This then we beg moſt humbly of you all.</l>
+            <l>That ſtill we may enjoy our belly cheare;</l>
+            <l>And idely live, without all worke or care.</l>
+            <l>And if your Honours, will but grant us this,</l>
+            <l>We are content, if you will us diſmiſſe.</l>
+            <l>For we came to the place for conſcience ſake,</l>
+            <l>As to be fed, and labour none to take.</l>
+            <l>But yet we thinke, much better will it be.</l>
+            <l>That in a Prieſthood, left alone be we,</l>
+            <l>For if the Puritants, the onely men,</l>
+            <l>Who wiſh us out, that ſo they may come in,</l>
+            <l>Doe get but once into our place and Roome,</l>
+            <l>They will not doe, as we (poore fooles) have done.</l>
+            <l>They are (Forſooth) ſo ſcruplous in their wayes,</l>
+            <l>That if it be againſt Gods holy Lawes,</l>
+            <l>They will dot doe it, no although it be,</l>
+            <l>A thing required of his Majeſtie.</l>
+            <l>But as for us, our carriage is not ſo,</l>
+            <l>If State command, we never ſay it no.</l>
+            <l>And this we dare affirme there is no where,</l>
+            <l>A more time-ſerving Clergie then is here.</l>
+            <l>When our ſweet Biſhops, had by Act obtain'd:</l>
+            <l>To have Gods holy Day with Sports prophan'd.</l>
+            <l>Although the purer ſort, againſt it taught,</l>
+            <l>Yet we confirm'd, although we knew't was naught.</l>
+            <l>What ever <hi>Land</hi> devis'd and on us caſt,</l>
+            <l>We did the ſame, to hold our livings faſt.</l>
+            <l>And we fore-ſaw what further was his hope,</l>
+            <l>To bring us all in ſervice to the <hi>Pope.</hi>
+            </l>
+            <l>Which things if he had once but brought to paſſe;</l>
+            <l>To yeeld thereto our full intentment was.</l>
+            <l>And thus we have your Honours made to ſee,</l>
+            <l>Why in the Prieſt-hood we ſhould ſuffer'd bee.</l>
+            <l>Namely for this, and nothing elſe at all,</l>
+            <l>There's nought ſo bad, but yeeld thereto we ſhall.</l>
+            <epigraph>
+               <q>
+                  <p>—Quid rides? mutato nemine de te Fabula narratur.</p>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:155853:6"/>
+            <!-- PDF PAGE 66 -->
+         </div>
+      </body>
+   </text>
+</TEI>
